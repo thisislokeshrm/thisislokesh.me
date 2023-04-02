@@ -32,6 +32,10 @@ body{
     font-size: 20px;
     margin-bottom: 10px;
 }
+.categoory_h3{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
 .category_meta{
     font-size: 16px;
     margin-bottom: 10px;
@@ -43,6 +47,11 @@ body{
 .category_link{
     font-size: 16px;
     margin-bottom: 10px;
+}
+.category_link a {
+    position: relative;
+    color: #3374f3;
+    font-weight: 500;
 }
 .category_extra_btn{
     display: block;
